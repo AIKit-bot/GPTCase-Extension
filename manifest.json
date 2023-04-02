@@ -10,8 +10,7 @@
         "*://chat.openai.com/*"
     ],
     "permissions": [
-        "storage",
-        "nativeMessaging"
+        "storage"
     ],
     "externally_connectable": {
         "matches": [
